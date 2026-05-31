@@ -21,11 +21,7 @@ const REVISIONS   = ["A","B","C","D","E","F","G","H","IFC","0","1","2","3"];
 
 const PROJECTS = ["Tower Alpha", "Riverside Mall", "Refinery X", "Harbor Bridge", "Metro Station 7"];
 
-const USERS = [
-  { name: "Alex Morgan",  initials: "AM", role: "Lead Engineer",       email: "a.morgan@company.com" },
-  { name: "Jordan Lee",   initials: "JL", role: "Structural Designer",  email: "j.lee@company.com"    },
-  { name: "Sam Chen",     initials: "SC", role: "MEP Engineer",         email: "s.chen@company.com"   },
-];
+const USERS = [];
 
 /* ─────────────────────────────────────────────────────────────────
    CONSTANTS
