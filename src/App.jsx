@@ -837,8 +837,8 @@ function AdminView({ user, drawings }) {
           <CardHeader title="Azure App Registration" />
           <div style={{ padding: "8px 16px 16px", display: "flex", flexDirection: "column", gap: 10 }}>
             {[
-              ["Client ID",            "Replace YOUR_AZURE_CLIENT_ID"],
-              ["Tenant ID",            "Replace YOUR_TENANT_ID"],
+              ["Client ID",            "9df0ea4a-7885-442e-9a53-3cd175fd2688"],
+              ["Tenant ID",            "31d5935b-dd84-4b66-bffe-6688dbc2abeb"],
               ["Required Permissions", "User.Read · Sites.ReadWrite.All · Files.ReadWrite.All"],
               ["Token Scope",          "https://graph.microsoft.com/.default"],
               ["Redirect URI",         window.location.origin],
